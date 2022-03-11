@@ -1,6 +1,6 @@
-# BookShelf
-# Navigate to My BokShelf Github Repo for codes https://github.com/rameshkumars12/BookShelf/
+# Navigate to My BookShelf Github Repo for codes https://github.com/rameshkumars12/BookShelf/
 
+# BookShelf
 BookShelf is an Computer-Vision based Webapp, Which detects text from images of a book and gives the detail information of a book in a table format.
 
 ## Steps Involved:
